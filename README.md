@@ -1,3 +1,3 @@
 gen-server
 ==========
-README text here.
+Toy OTP gen_server implementation for Racket threads.
